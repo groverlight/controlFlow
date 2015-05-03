@@ -33,6 +33,21 @@
     }
 
 
+    BOOL maypacFightIsBoring = YES;
+
+    if (maypacFightIsBoring != YES)
+
+    {
+        NSLog(@"Quit periscoping the damn fight");
+    }
+
+    else
+
+    {
+        NSLog(@"Watch with bated breaths!");
+
+    }
+
 }
 
 
